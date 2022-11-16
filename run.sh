@@ -1,0 +1,4 @@
+export OTEL_EXPORTER_OTLP_ENDPOINT=""
+export OTEL_EXPORTER_OTLP_HEADERS=""
+export OTEL_SERVICE_NAME=""
+python app.py
